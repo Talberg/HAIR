@@ -11,3 +11,11 @@
 h2{
     padding-left: -1rem;
 }
+body{
+  background-color: black;
+}
+.backGround{
+  background-color: black;
+  height: 300%; 
+  width: 100%;
+}
