@@ -10,12 +10,24 @@
 }
 h2{
     padding-left: -1rem;
+   
 }
 body{
   background-color: black;
+
 }
 .backGround{
-  background-color: black;
+  background-color: rgb(214, 154, 189);;
   height: 300%; 
   width: 100%;
+  
 }
+.groundBack{
+background-color: teal;
+border-radius: 15%;
+}
+
+.gray{
+  background-color: gray;
+}
+
