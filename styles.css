@@ -38,4 +38,11 @@ background: #9ceeeb;
 .shadow{
   box-shadow: 5px 10px #888888;
 }
+h3{
+  color:white;
+  text-shadow: -1px 1px 0 rgb(110, 107, 107),
+				  .1px 1px 0 rgb(110, 107, 107),
+				 1px -1px 0 rgb(110, 107, 107),
+				-1px -1px 0 rgb(110, 107, 107);
+}
 
